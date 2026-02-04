@@ -25,3 +25,34 @@ This project focuses on **post-processing vehicle data**, which is a realistic a
 
 ## Project structure
 
+smart-vehicle-data-analyzer/
+├── data/
+├── analyzer.py
+├── main.py
+├── requirements.txt
+└── README.md
+
+
+## How to run
+
+1. Install dependencies:
+
+2. Run the project:
+
+## Example use cases
+
+- Analyzing vehicle logs
+- Detecting battery-related issues
+- Learning automotive data analysis concepts
+- Practicing real-world Python projects
+
+## Notes
+
+This project is designed as a learning and portfolio project and can be extended with:
+- Data visualization
+- More sensors (RPM, speed, temperature)
+- GUI or web interface
+
+
+
+
